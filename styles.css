@@ -1,4 +1,25 @@
 .header {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(77, 34, 119);
+}
+
+.portfolios {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+html {
+  background-color: rgb(52, 152, 214);
+}
+
+.header-text {
+  color: white;
+  margin-top: 0;
+}
+
+#name {
+  margin-bottom: 0;
 }
