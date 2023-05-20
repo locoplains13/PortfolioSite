@@ -63,7 +63,7 @@ body {
 }
 
 #css {
-  position: ;
+  position: relative;
   animation-name: icons1;
   animation-duration: 1s;
   animation-direction: alternate;
@@ -72,7 +72,7 @@ body {
 }
 
 #c {
-  position: ;
+  position: relative;
   animation-name: icons1;
   animation-duration: 1s;
   animation-direction: alternate;
