@@ -24,3 +24,19 @@
     border-bottom-right-radius: 70%;
   }
 }
+@keyframes icons1 {
+  from {
+    top: 0px;
+  }
+  to {
+    top: 3.5px;
+  }
+}
+@keyframes icons2 {
+  from {
+    top: 3.5px;
+  }
+  to {
+    top: 0px;
+  }
+}
