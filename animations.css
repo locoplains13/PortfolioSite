@@ -1,0 +1,10 @@
+@keyframes ppicture {
+  from {
+    border: dotted;
+    border: 5px dotted#e78080;
+  }
+  to {
+    border: solid;
+    border: 5px dotted#c35353;
+  }
+}
