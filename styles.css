@@ -1,6 +1,6 @@
 html,
 body {
-  background-color: rgb(160, 171, 178);
+  background-color: rgb(209, 219, 225);
   scroll-behavior: smooth;
   max-width: 100%;
   overflow-x: hidden;
@@ -16,7 +16,6 @@ body {
 }
 
 .body-content {
-  margin-top: 150px;
   text-align: center;
   z-index: 1;
 }
@@ -103,8 +102,15 @@ body {
   list-style-type: none;
   overflow: hidden;
   display: inline-block;
-  padding: 0;
-  margin-top: 100px;
+  width: 100%;
+  background-color: salmon;
+  height: 150px;
+  padding-left: 30%;
+}
+
+.program-list {
+  width: 100%;
+  text-align: center;
 }
 
 li {
@@ -142,7 +148,6 @@ li {
 #apps {
   text-align: center;
   margin-bottom: 0;
-  margin-top: 170px;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-size: 35px;
 }
@@ -205,9 +210,10 @@ li a:active {
   text-align: center;
   display: block;
   height: 25px;
+  width: 100%;
   font-size: 20px;
   font-family: "Courier New", Courier, monospace;
   color: white;
-  background-color: rgb(150, 100, 90);
-  border-color: rgb(150, 100, 90);
+  background-color: salmon;
+  border-color: salmon;
 }
