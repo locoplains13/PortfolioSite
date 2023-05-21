@@ -28,56 +28,62 @@ body {
 }
 #java {
   position: relative;
-  animation-name: icons1;
+  animation-name: icons;
   animation-duration: 1s;
   animation-direction: alternate;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+  animation-delay: 1.5s;
 }
 
 #javascript {
   position: relative;
-  animation-name: icons1;
+  animation-name: icons;
   animation-duration: 1s;
   animation-direction: alternate;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+  animation-delay: 1.6s;
 }
 
 #python {
   position: relative;
-  animation-name: icons1;
+  animation-name: icons;
   animation-duration: 1s;
   animation-direction: alternate;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+  animation-delay: 1.7s;
 }
 
 #html {
   position: relative;
-  animation-name: icons1;
+  animation-name: icons;
   animation-duration: 1s;
   animation-direction: alternate;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+  animation-delay: 1.8s;
 }
 
 #css {
   position: relative;
-  animation-name: icons1;
+  animation-name: icons;
   animation-duration: 1s;
   animation-direction: alternate;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+  animation-delay: 1.9s;
 }
 
 #c {
   position: relative;
-  animation-name: icons1;
+  animation-name: icons;
   animation-duration: 1s;
   animation-direction: alternate;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+  animation-delay: 2s;
 }
 
 .portfolios {
