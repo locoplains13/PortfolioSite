@@ -130,7 +130,7 @@ li {
   height: 35px;
 }
 
-#blender-btn {
+#websites-btn {
   width: 35px;
   height: 35px;
 }
@@ -155,6 +155,11 @@ li {
     rgba(200, 220, 250, 0) 75%
   );
   text-align: center;
+  display: inline;
+}
+
+.inline-projects {
+  display: inline-flex;
 }
 
 .project-card {
@@ -165,6 +170,8 @@ li {
   padding: 20px;
   margin: 20px;
   backdrop-filter: blur(5px);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 .project-pic {
@@ -176,7 +183,8 @@ li {
   font-size: 25px;
 }
 
-#blender {
+#websites {
+  text-align: center;
   margin-bottom: 0;
   margin-top: 170px;
   font-size: 35px;
